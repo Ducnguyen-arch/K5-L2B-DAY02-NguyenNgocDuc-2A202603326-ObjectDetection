@@ -4,10 +4,10 @@
 
 ## 1. Thông tin học viên
 
-- Họ tên:
-- MSSV:
-- Email:
-- Lớp:
+- Họ tên:Nguyễn Ngọc Đức
+- MSSV: 2A202603326
+- Email: nnduc1520@gmail.com
+- Lớp: L2B
 - Link repo bài làm:
 - Link Colab đã chạy:
 
